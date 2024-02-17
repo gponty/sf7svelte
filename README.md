@@ -2,7 +2,7 @@
 
 Welcome to the Symfony/Svelte stack project! This project aims to provide a simple setup for building applications using Symfony on the backend and Svelte on the frontend, with the help of FrankenPHP and Vite.js for efficient development.
 
-You can find the full article on my blog: [Symfony/Svelte Stack with FrankenPHP and Vite.js](https://www.dev-web.io/2024/02/16/frankenphp-sf7-vite-svelte)
+You can find the full article on my blog: [Symfony/Svelte Stack with FrankenPHP and Vite.js](https://www.dev-web.io/2024/02/17/frankenphp-sf7-vite-svelte)
 
 ## Prerequisites
 
